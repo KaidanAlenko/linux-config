@@ -5,6 +5,7 @@ alias u='cd ..'
 alias uu='cd ../..'
 alias uuu='cd ../../..'
 alias mkdir='mkdir -pv'
+alias o='xdg-open'
 
 # History and jobs
 alias h='history'
