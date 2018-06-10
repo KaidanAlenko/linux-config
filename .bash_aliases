@@ -24,3 +24,8 @@ alias ports='netstat -plunt'
 # Debian/Ubuntu
 alias update='sudo apt update && sudo apt upgrade'
 
+# Git
+alias gst='git status'
+alias glg='git log'
+alias glog='git log --oneline --decorate --graph'
+alias gcm='git commit -m'
